@@ -1,6 +1,8 @@
 # CipherSchools TODO APP
 This is a sample react todo app done step-by-step. This sample app was a part of react workshop by cipherSchools.
 
+Check the demo hosted on heroku https://cipherschoolstodolist.herokuapp.com/
+
 ## Instructions
 
 First clone this repository.
